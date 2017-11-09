@@ -1,0 +1,24 @@
+{
+	"name": "test_map",
+	"backgroundColor": [ 0.0, 0.0, 0.0 , 1.0 ],
+	"scriptPath": "test_map_script.lua",
+	"scriptName": "test_map",
+	"objects": [
+		{
+			"name": "test rectangle",
+			"position": [0, 0],
+			"type": "rectangle",
+			"width": 100,
+			"height": 100,
+			"color": [1, 0, 0, 1]
+		},
+		{
+			"name": "test circle",
+			"position": [0, 0],
+			"type": "circle",
+			"radius": 50,
+			"color": [1, 1, 1, 1]
+		}
+	]
+}
+
